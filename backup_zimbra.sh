@@ -1,3 +1,6 @@
+#By Rafael Ferreira
+#Date 26/10/2018
+
 #!/bin/bash
 
 #Entra no diretorio de Backup
